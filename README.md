@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0143-reorder-list) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
