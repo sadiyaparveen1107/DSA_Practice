@@ -46,9 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
