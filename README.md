@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
