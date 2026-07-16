@@ -57,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
