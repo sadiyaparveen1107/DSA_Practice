@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0202-happy-number) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
