@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 <!---LeetCode Topics End-->
