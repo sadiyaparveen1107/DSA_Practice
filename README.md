@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## String
 |  |
