@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0143-reorder-list) |
