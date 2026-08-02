@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0202-happy-number) |
 ## Stack
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0058-length-of-last-word) |
