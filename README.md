@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0932-beautiful-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0932-beautiful-array) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Divide and Conquer
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0932-beautiful-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0932-beautiful-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0202-happy-number) |
+| [0932-beautiful-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0932-beautiful-array) |
 ## Stack
 |  |
 | ------- |
