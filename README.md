@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0049-group-anagrams) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0038-count-and-say) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
