@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0932-beautiful-array) |
 | [1929-concatenation-of-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2831-find-the-longest-equal-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2831-find-the-longest-equal-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0202-happy-number) |
+| [2831-find-the-longest-equal-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2831-find-the-longest-equal-subarray) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2831-find-the-longest-equal-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2831-find-the-longest-equal-subarray) |
 ## String
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [2831-find-the-longest-equal-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2831-find-the-longest-equal-subarray) |
 <!---LeetCode Topics End-->
