@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0932-beautiful-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0932-beautiful-array) |
 | [1929-concatenation-of-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0932-beautiful-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0932-beautiful-array) |
 ## Dynamic Programming
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2831-find-the-longest-equal-subarray](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/2831-find-the-longest-equal-subarray) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sadiyaparveen1107/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
